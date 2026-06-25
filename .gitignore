@@ -1,0 +1,20 @@
+# Local ZMK / Zephyr workspace and dependencies
+build/
+zmk/
+zephyr/
+modules/
+optional/
+tools/
+bootloader/
+
+# Firmware artifacts
+*.uf2
+*.hex
+*.bin
+*.elf
+
+# Editor / OS files
+.DS_Store
+.vscode/
+.idea/
+build.sh
