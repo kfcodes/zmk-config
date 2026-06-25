@@ -18,4 +18,3 @@ bootloader/
 .DS_Store
 .vscode/
 .idea/
-build.sh
