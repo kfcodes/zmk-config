@@ -1,4 +1,5 @@
-# Local ZMK / Zephyr workspace and dependencies
+# Local ZMK / Zephyr workspace
+.west/
 build/
 zmk/
 zephyr/
@@ -13,7 +14,7 @@ bootloader/
 *.bin
 *.elf
 
-# Editor / OS files
+# OS/editor files
 .DS_Store
 .vscode/
 .idea/
